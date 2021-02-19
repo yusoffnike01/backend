@@ -1,0 +1,2 @@
+class DetailCounter < ApplicationRecord
+end

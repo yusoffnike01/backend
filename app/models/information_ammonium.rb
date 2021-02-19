@@ -1,0 +1,2 @@
+class InformationAmmonium < ApplicationRecord
+end
