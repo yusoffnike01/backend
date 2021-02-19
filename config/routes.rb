@@ -9,7 +9,8 @@ Rails.application.routes.draw do
       resources:counter
       resources:detail_counter
       resources:info_counter
-      resource:detail_ammonia
+      resources :infoammonia
+      
   
     end
   end 
